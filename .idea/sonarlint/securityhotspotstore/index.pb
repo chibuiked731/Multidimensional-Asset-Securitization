@@ -15,3 +15,5 @@ a
 1contracts/hyperspatial-property-tokenization.clar,0/0/00af6ab6b56ab7f985fd4a25c17d6fa5d3ed3696
 b
 2contracts/cross-dimensional-collateralization.clar,b/5/b5c06bf3329e1ab8426f8059721d2742e82bc7d1
+a
+1tests/cross-dimensional-collateralization.test.ts,0/3/0372b1c56183b140bdead2883268dd701506d312
